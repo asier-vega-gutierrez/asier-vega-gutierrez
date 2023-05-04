@@ -18,9 +18,9 @@ En este repositorio guardo los proyectos que he ido realizando.
 
 ### Ejemplo de proyecto
 <ul>
-    <li><p align="left">Fechas:</p></li>
-    <li><p align="left">Objetivo:</p></li>
-    <li><p align="left">Herramientas utilizadas:</p></li>
+    <li>Fechas:</li>
+    <li>Objetivo:</li>
+    <li>Herramientas utilizadas:</li>
 </ul>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
