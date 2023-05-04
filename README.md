@@ -22,9 +22,7 @@ En este repositorio guardo los proyectos que he ido realizando.
     <li>Objetivo:</li>
     <li>Herramientas utilizadas:</li>
 </ul>
-<p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
-</p>
 
