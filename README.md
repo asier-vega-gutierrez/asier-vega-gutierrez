@@ -1,4 +1,4 @@
-# Asier Vega Gutierrez
+# Asier Vega Gutiérrez
 
 Soy un estudiante del Grado de Industria Digital (universidad Deusto) y estoy buscando ganar experiencia en el ámbito de la informática y la industria para aportar mis conocimientos, competencias y alcanzar mis objetivos fijados.
 
@@ -24,7 +24,6 @@ En este repositorio guardo los proyectos que he ido realizando.
     <li>Fechas: Septiembre 2022 - Diciembre 2022</li>
     <li>Descripción: Las estación está montada con un sistema embebido Arduino que centraliza los sensores de la estación. Se emplea un módulo Wifi para transmitir los datos a la arquitectura CNF, montada con Kubernetes en el cluster Minikube. Esta arquitectura está compuesta de un pod de Prometheus que almacena los datos y un pod de Grafana que visualizarlos. Además se implementa un sistema de alarmas utilizando el servidor SMTP de Google Mail.</li>
     <li>Herramientas utilizadas:</li>
-</ul>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
 </a>
@@ -37,5 +36,6 @@ En este repositorio guardo los proyectos que he ido realizando.
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
 </a>
+</ul>
 
 
