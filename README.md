@@ -13,9 +13,6 @@ En este repositorio guardo los proyectos que he ido realizando.
 <a href="https://es.linkedin.com/in/asier-vega-gutierrez">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
 </a>
-<a href="https://asiervg@outlook.com">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
-</a>
 Mail: asiervg@outlook.com    
 
 
