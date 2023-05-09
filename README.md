@@ -27,8 +27,6 @@ En este repositorio guardo los proyectos que he ido realizando.
 
 **Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas**
 <ul>
-    <li>Fechas: Septiembre 2022 - Diciembre 2022</li>
-    <li>Descripción: Las estación está montada con un sistema embebido Arduino que centraliza los sensores de la estación. Se emplea un módulo Wifi para transmitir los datos a la arquitectura CNF, montada con Kubernetes en el cluster Minikube. Esta arquitectura está compuesta de un pod de Prometheus que almacena los datos y un pod de Grafana que visualizarlos. Además se implementa un sistema de alarmas utilizando el servidor SMTP de Google Mail.</li>
     <li>Herramientas utilizadas:</li>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
