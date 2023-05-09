@@ -13,6 +13,7 @@ En este repositorio guardo los proyectos que he ido realizando.
     <li>Conocimientos: CNF, cloud conputing, sistemas inteligentes, IoT, y automatización.</li>
     <li>Prácticas con: Kubernetes, Azure, RapidMiner, TensorFlow, Raspberry, Arduino, TIA Portal.</li>
 </ul>
+
 ## Contacto
 
 <a href="https://es.linkedin.com/in/asier-vega-gutierrez">
