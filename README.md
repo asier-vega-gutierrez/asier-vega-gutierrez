@@ -7,13 +7,12 @@ Me considero una persona paciente, trabajadora y flexible, además nunca pierdo 
 En este repositorio guardo los proyectos que he ido realizando.
 
 ## Hoy
-**Desarrollador en VB.NET y Técnico CAD**
+**Grado dual en Industria Digital**
 <ul>
-    <li>Gracias a mi estancia dual pude formarme durante 3 años mientras acudía a clase.</li>
-    <li>Trabajo en ingeniería, desarrollando un complemento para una aplicación CAD.</li>
-    <li>Conocimiento adquiridos: programación VB.NET y diseño CAD con SolidWorks.</li>
-</ul>    
-
+    <li>Grado universitario dual, enfocado a la trasformación digital de la empresa industrial.</li>
+    <li>Conocimientos: CNF, cloud conputing, sistemas inteligentes, IoT, y automatización.</li>
+    <li>Prácticas con: Kubernetes, Azure, RapidMiner, TensorFlow, Raspberry, Arduino, TIA Portal.</li>
+</ul>
 ## Contacto
 
 <a href="https://es.linkedin.com/in/asier-vega-gutierrez">
