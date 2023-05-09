@@ -42,4 +42,15 @@ En este repositorio guardo los proyectos que he ido realizando.
 </a>
 </ul>
 
+**Desarrollo de aplicación IoT para monitorización de comederos**
+<ul>
+    <li>Herramientas utilizadas:</li>
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+</ul>
+
 
