@@ -7,8 +7,8 @@ Me considero una persona paciente, trabajadora y flexible, además nunca pierdo 
 En este repositorio guardo los proyectos que he ido realizando.
 
 ## Hoy
+**Desarrollador en VB.NET y Técnico CAD**
 <ul>
-    **Desarrollador en VB.NET y Técnico CAD**
     <li>Gracias a mi estancia dual pude formarme durante 3 años mientras acudía a clase.</li>
     <li>Trabajo en ingeniería, desarrollando un complemento para una aplicación CAD.</li>
     <li>Conocimiento adquiridos: programación VB.NET y diseño CAD con SolidWorks.</li>
