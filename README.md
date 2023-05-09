@@ -14,7 +14,7 @@ En este repositorio guardo los proyectos que he ido realizando.
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
 </a>
 <a href="asiervg@outlook.com ">
-    <img src="https://vectorwiki.com/logo/outlook-icon" height="35" width="35">
+    <img src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" height="35" width="35">
 </a>
 
 ## Proyectos
