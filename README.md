@@ -1,4 +1,4 @@
-<h1 aling="center">Asier Vega Gutiérrez</h1>
+<h1 align="center">Asier Vega Gutierrez</h1>
 
 Soy un estudiante del Grado de Industria Digital (universidad Deusto) y estoy buscando ganar experiencia en el ámbito de la informática y la industria para aportar mis conocimientos, competencias y alcanzar mis objetivos fijados.
 
