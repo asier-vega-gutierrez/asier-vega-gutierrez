@@ -1,4 +1,4 @@
-<h1 align="center">Asier Vega Gutierrez</h1>
+<h1 align="center">Asier Vega Gutiérrez</h1>
 
 ## Hoy
 **Ingenieria en industria digital**
