@@ -7,7 +7,7 @@ Me considero una persona paciente, trabajadora y flexible, además nunca pierdo 
 En este repositorio guardo los proyectos que he ido realizando.
 
 ## Hoy
-**Grado dual en Industria Digital**
+**Ingenieria en industria digital**
 <ul>
     <li>Grado universitario dual, enfocado a la trasformación digital de la empresa industrial.</li>
     <li>Conocimientos: CNF, cloud conputing, sistemas inteligentes, IoT, y automatización.</li>
