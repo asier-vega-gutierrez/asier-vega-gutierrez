@@ -66,3 +66,16 @@ En este repositorio guardo los proyectos que he ido realizando.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 </a>
 </ul>
+
+<h3 align="left">GitHub stats:</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asier-vega-gutierrez&label=Profile%20views&color=0e75b6&style=flat-square" alt="asier-vega-gutierrez" /> </p>
+
+![GitHub metrics](https://metrics.lecoq.io/asier-vega-gutierrez)  
+
+<!-- ![GitHub Activity Graph ](https://activity-graph.herokuapp.com/graph?username=asier-vega-gutierrez&theme=react-dark&bg_color=22272e&hide_border=true)  -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asier-vega-gutierrez&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&locale=en&layout=compact&count_private=true" alt="asier-vega-gutierrez" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asier-vega-gutierrez&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&locale=en" alt="asier-vega-gutierrez" /></p>
+
