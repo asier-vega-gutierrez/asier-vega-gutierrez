@@ -25,6 +25,14 @@ En este repositorio guardo los proyectos que he ido realizando.
 
 ## Proyectos
 
+**Analisis y optimizacion de maquina de impresion 3D con RapidMiner
+<ul>
+    <li>Herramientas utilizadas:</li>
+<a href="https://rapidminer.com/" target="_blank" rel="noreferrer">
+    <img src="/resources/rapidminer.svg" alt="rapidminer" width="40" height="40"/> 
+</a>
+</ul>
+
 **Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas**
 <ul>
     <li>Herramientas utilizadas:</li>
