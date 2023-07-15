@@ -1,11 +1,5 @@
 <h1 align="center">Asier Vega Gutierrez</h1>
 
-Soy un estudiante del Grado de Industria Digital (universidad Deusto) y estoy buscando ganar experiencia en el ámbito de la informática y la industria para aportar mis conocimientos, competencias y alcanzar mis objetivos fijados.
-
-Me considero una persona paciente, trabajadora y flexible, además nunca pierdo la oportunidad de formarme en materias nuevas o en ampliar mis conocimientos.
-
-En este repositorio guardo los proyectos que he ido realizando.
-
 ## Hoy
 **Ingenieria en industria digital**
 <ul>
