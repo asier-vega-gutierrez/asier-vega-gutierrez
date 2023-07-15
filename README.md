@@ -1,4 +1,4 @@
-# Asier Vega Gutiérrez
+<h1 aling="center">Asier Vega Gutiérrez</h1>
 
 Soy un estudiante del Grado de Industria Digital (universidad Deusto) y estoy buscando ganar experiencia en el ámbito de la informática y la industria para aportar mis conocimientos, competencias y alcanzar mis objetivos fijados.
 
@@ -25,7 +25,7 @@ En este repositorio guardo los proyectos que he ido realizando.
 
 ## Proyectos
 
-**Analisis y optimizacion de maquina de impresion 3D con RapidMiner
+**Analisis y optimizacion de maquina de impresion 3D con RapidMiner**
 <ul>
     <li>Herramientas utilizadas:</li>
 <a href="https://rapidminer.com/" target="_blank" rel="noreferrer">
