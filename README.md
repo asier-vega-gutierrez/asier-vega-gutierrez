@@ -29,7 +29,7 @@ En este repositorio guardo los proyectos que he ido realizando.
 <ul>
     <li>Herramientas utilizadas:</li>
 <a href="https://rapidminer.com/" target="_blank" rel="noreferrer">
-    <img src="/resources/rapidminer.svg" alt="rapidminer" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/4490278?s=280&v=4" alt="rapidminer" width="40" height="40"/> 
 </a>
 </ul>
 
