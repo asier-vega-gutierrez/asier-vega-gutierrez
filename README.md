@@ -27,7 +27,7 @@
 </a>
 </ul>
 
-## Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas con esp32 Wifi
+**Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas con esp32 Wifi**
 <ul>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
