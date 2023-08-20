@@ -27,9 +27,8 @@
 </a>
 </ul>
 
-**Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas**
+## Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas con esp32 Wifi
 <ul>
-    <li>Herramientas utilizadas:</li>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
 </a>
@@ -38,9 +37,6 @@
 </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
 </a>
 </ul>
 
