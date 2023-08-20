@@ -29,6 +29,7 @@
 
 **Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas con esp32 Wifi**
 <ul>
+    <li>Herramientas utilizadas:</li>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
 </a>
