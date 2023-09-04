@@ -4,9 +4,9 @@
 <head><meta name="google-site-verification" content="BbYqj-J9K6kx6PWHXmlphq2PQxwdl_Vop4znMsMKLsA" /></head>
 
 ## Hoy
-**Ingenieria en industria digital**
+**Ingenieria Informatica**
 <ul>
-    <li>Grado universitario dual, enfocado a la trasformación digital de la empresa industrial.</li>
+    <li>Ingeniería, enfocada a la transformación digital de la empresa industrial.</li>
     <li>Conocimientos: CNF, cloud conputing, sistemas inteligentes, IoT, y automatización.</li>
     <li>Prácticas con: Kubernetes, Azure, RapidMiner, TensorFlow, Raspberry, Arduino, TIA Portal.</li>
 </ul>
