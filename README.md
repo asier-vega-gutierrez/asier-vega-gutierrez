@@ -4,12 +4,8 @@
 <head><meta name="google-site-verification" content="BbYqj-J9K6kx6PWHXmlphq2PQxwdl_Vop4znMsMKLsA" /></head>
 
 ## Hoy
-**Ingenieria en Industria Digital | Industria 4.0**
-<ul>
-    <li>Ingeniería, enfocada a la transformación digital de la empresa industrial.</li>
-    <li>Conocimientos: CNF, cloud conputing, sistemas inteligentes, IoT, y automatización.</li>
-    <li>Prácticas con: Kubernetes, Azure, RapidMiner, TensorFlow, Raspberry, Arduino, TIA Portal.</li>
-</ul>
+**Ingeniero en Industria Digital | Industria 4.0**
+<p>Hola, Soy Asier soy ingeniero en industria digital y en este repositorio guardo los proyectos que he ido desarrollando.</p>
 
 ## Contacto
 
