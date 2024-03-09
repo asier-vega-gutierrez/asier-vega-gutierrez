@@ -64,7 +64,7 @@
 
 ## Estadisticas de git
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asier-vega-gutierrez&label=Profile%20views&color=0e75b6&style=flat-square" alt="asier-vega-gutierrez" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=asier-vega-gutierrez&label=Profile%20views&color=0e75b6&style=flat-square" alt="asier-vega-gutierrez" /> </p>-->
 
 <!--![GitHub metrics](https://metrics.lecoq.io/asier-vega-gutierrez)  -->
 
