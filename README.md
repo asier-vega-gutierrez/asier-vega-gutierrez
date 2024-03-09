@@ -66,7 +66,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asier-vega-gutierrez&label=Profile%20views&color=0e75b6&style=flat-square" alt="asier-vega-gutierrez" /> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/asier-vega-gutierrez)  
+<!--![GitHub metrics](https://metrics.lecoq.io/asier-vega-gutierrez)  -->
 
 <!-- ![GitHub Activity Graph ](https://activity-graph.herokuapp.com/graph?username=asier-vega-gutierrez&theme=react-dark&bg_color=22272e&hide_border=true)  -->
 
