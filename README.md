@@ -12,6 +12,9 @@
 <a href="https://es.linkedin.com/in/asier-vega-gutierrez">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
 </a>
+<a href="asiervg@outlook.com">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/outlook.svg" height="35" width="35">
+</a>
 
 ## Repostorios
 
@@ -20,11 +23,13 @@
     <li> Smart_Factory -> Recojida y almacenamiento de datos de un PLC utilizando MQTT</li>
     <li>Esp32_weather_monitor -> Monitorizacion escalable de estaciones meteorologicas</li>
 </ul>
+
 **Proyectos de Vision**
 <ul>
     <li>Vision_Guided_Toy -> Resolucion de un juego para niños atraves de vision</li>
     <li>PCB_Detection_YOLOv8 -> Deteccion de componenetes de distintas PCBs atraves de YOLOv8</li>
 </ul>
+
 **Otros proyectos**
 <ul>
     <li>ABB_Welding_Robots -> Soldadura de distintas peiza en RobotStudio</li>
