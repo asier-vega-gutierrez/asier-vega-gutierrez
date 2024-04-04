@@ -17,29 +17,22 @@
 
 **Proyectos de IoT**
 <ul>
-    <li>Herramientas utilizadas:</li>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
-</a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> 
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-</a>
+    <li> Smart_Factory -> Recojida y almacenamiento de datos de un PLC utilizando MQTT</li>
+    <li>Esp32_weather_monitor -> Monitorizacion escalable de estaciones meteorologicas</li>
+</ul>
+**Proyectos de Vision**
+<ul>
+    <li>Vision_Guided_Toy -> Resolucion de un juego para niños atraves de vision</li>
+    <li>PCB_Detection_YOLOv8 -> Deteccion de componenetes de distintas PCBs atraves de YOLOv8</li>
+</ul>
+**Otros proyectos**
+<ul>
+    <li>ABB_Welding_Robots -> Soldadura de distintas peiza en RobotStudio</li>
+    <li>ROS2_RPI5_Radar -> Radar empleando ROS2 y una RaspberryPi5</li>
+    <li>3D_Printer_Analisis -> Analisis de datos de una impresora 3D con Rapidminner</li>
 </ul>
 
-**Proyectos de Vision**
-
-**Proyectos de **
-
 ## Estadisticas de git
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=asier-vega-gutierrez&label=Profile%20views&color=0e75b6&style=flat-square" alt="asier-vega-gutierrez" /> </p>-->
-
-<!--![GitHub metrics](https://metrics.lecoq.io/asier-vega-gutierrez)  -->
-
-<!-- ![GitHub Activity Graph ](https://activity-graph.herokuapp.com/graph?username=asier-vega-gutierrez&theme=react-dark&bg_color=22272e&hide_border=true)  -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asier-vega-gutierrez&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&locale=en&layout=compact&count_private=true" alt="asier-vega-gutierrez" /></p>
 
