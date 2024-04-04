@@ -13,9 +13,9 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
 </a>
 
-## Proyectos
+## Repostorios
 
-**Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas con esp32 Wifi**
+**Proyectos de IoT**
 <ul>
     <li>Herramientas utilizadas:</li>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
@@ -28,6 +28,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
 </a>
 </ul>
+
+**Proyectos de Vision**
+
+**Proyectos de **
 
 ## Estadisticas de git
 
