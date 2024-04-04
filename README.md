@@ -13,7 +13,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
 </a>
 <a href="asiervg@outlook.com">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/outlook.svg" height="35" width="35">
+    <img src="https://github.com/pheralb/svgl/blob/main/static/library/outlook.svg" height="35" width="35">
 </a>
 
 ## Repostorios
