@@ -15,14 +15,6 @@
 
 ## Proyectos
 
-**Analisis y optimizacion de maquina de impresion 3D con RapidMiner**
-<ul>
-    <li>Herramientas utilizadas:</li>
-<a href="https://rapidminer.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/4490278?s=280&v=4" alt="rapidminer" width="40" height="40"/> 
-</a>
-</ul>
-
 **Desarrollo de aplicación IoT para monitorización de estaciones meteorológicas con esp32 Wifi**
 <ul>
     <li>Herramientas utilizadas:</li>
@@ -34,31 +26,6 @@
 </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-</a>
-</ul>
-
-**Desarrollo de aplicación IoT para monitorización de comederos**
-<ul>
-    <li>Herramientas utilizadas:</li>
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-</ul>
-
-**Desarrollo de aplicación Web para gestión de pedidos**
-<ul>
-    <li>Herramientas utilizadas:</li>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-</a>
-<a href="https://es.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-</a>
-<a href="https://es.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 </a>
 </ul>
 
