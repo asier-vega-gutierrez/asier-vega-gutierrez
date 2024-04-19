@@ -9,12 +9,9 @@
 
 ## Contacto
 
-<a href="https://es.linkedin.com/in/asier-vega-gutierrez">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
-</a>
-<a href="asiervg@outlook.com">
-    <img src="https://github.com/pheralb/svgl/blob/main/static/library/outlook.svg" height="35" width="35">
-</a>
+| Column 1 | Column 2 |
+|----------|----------|
+| <a href="https://es.linkedin.com/in/asier-vega-gutierrez"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35"></a>  | asiervg@outlook.com |
 
 ## Repostorios
 
