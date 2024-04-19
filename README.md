@@ -8,8 +8,8 @@
 <p>Hola, soy Asier soy ingeniero en industria digital y en este repositorio guardo los proyectos que he ido desarrollando.</p>
 
 ## Contacto
-| LinkedIn | Mail |
-|----------|----------|
+| <!-- -->  | <!-- -->  |
+|:----------:|:----------:|
 | <a href="https://es.linkedin.com/in/asier-vega-gutierrez"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35"></a>  | asiervg@outlook.com |
 
 ## Repostorios
