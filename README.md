@@ -13,8 +13,6 @@
 | <a href="https://es.linkedin.com/in/asier-vega-gutierrez"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35"></a>  | asiervg@outlook.com |
 
 ## Repostorios
-
-**Proyectos de IoT**
 <ul>
     <li>Smart_Factory -> Recogida y almacenamiento de datos de un PLC utilizando MQTT</li>
     <li>Esp32_weather_monitor -> Monitorizacion escalable de estaciones meteorologicas</li>
@@ -22,6 +20,7 @@
     <li>PCB_Detection_YOLOv8 -> Deteccion de componentes de distintas PCBs a traves de YOLOv8</li>
     <li>ABB_Welding_Robots -> Soldadura de distintas piezas en RobotStudio</li>
     <li>ROS2_RPI5_Radar -> Radar empleando ROS2 y una RaspberryPi5</li>
+    <li>FPGA_uart_2_pwm -> Implementacion de UART en FPGA para controlar LED por PWM</li>
     <li>3D_Printer_Analisis -> Analisis de datos de una impresora 3D con Rapidminer</li>
 </ul>
 
