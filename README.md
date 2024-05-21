@@ -4,8 +4,8 @@
 <head><meta name="google-site-verification" content="BbYqj-J9K6kx6PWHXmlphq2PQxwdl_Vop4znMsMKLsA" /></head>
 
 ## Presentacion
-**Ingeniero en Industria Digital | Industria 4.0**
-<p>Hola, soy Asier soy ingeniero en industria digital y en este repositorio guardo los proyectos que he ido desarrollando.</p>
+**Ingeniero en Industria Digital**
+<p>Hola, soy Asier soy ingeniero y en este repositorio guardo los proyectos que he ido desarrollando.</p>
 
 ## Contacto
 | LinkedIn | Mail  |
