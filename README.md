@@ -18,16 +18,8 @@
 <ul>
     <li>Smart_Factory -> Recogida y almacenamiento de datos de un PLC utilizando MQTT</li>
     <li>Esp32_weather_monitor -> Monitorizacion escalable de estaciones meteorologicas</li>
-</ul>
-
-**Proyectos de Vision**
-<ul>
     <li>Vision_Guided_Toy -> Resolucion de un juego para niños a traves de vision</li>
     <li>PCB_Detection_YOLOv8 -> Deteccion de componentes de distintas PCBs a traves de YOLOv8</li>
-</ul>
-
-**Proyectos relacionados con temas industriales**
-<ul>
     <li>ABB_Welding_Robots -> Soldadura de distintas piezas en RobotStudio</li>
     <li>ROS2_RPI5_Radar -> Radar empleando ROS2 y una RaspberryPi5</li>
     <li>3D_Printer_Analisis -> Analisis de datos de una impresora 3D con Rapidminer</li>
